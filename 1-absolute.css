@@ -1,8 +1,9 @@
 header, main, aside, footer {
     position: absolute; 
+}
 
 header {
-    top: 0px;
+    top: 0;
     width: 100%;
 
 }
@@ -17,6 +18,7 @@ aside {
     width: 20%;
     right: 0;
     top: 87px;
+    height: 580px;
 
 }
 

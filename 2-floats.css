@@ -10,5 +10,10 @@ aside {
 }
 
 footer {
+    position: sticky;
+    bottom: 0;
+}
+
+.clearfix {
     clear: both;
 }
