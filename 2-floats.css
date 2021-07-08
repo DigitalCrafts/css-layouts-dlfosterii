@@ -1,0 +1,19 @@
+main {
+    float: left;
+    width: 80%;
+    
+}
+
+aside {
+    float: right;
+    width: 20%;
+}
+
+footer {
+    position: sticky;
+    bottom: 0;
+}
+
+.clearfix {
+    clear: both;
+}
